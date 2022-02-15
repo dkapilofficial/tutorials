@@ -99,3 +99,5 @@ To run the integration tests, use the command:
 `mvn clean install -Pintegration-jdk9-and-above`
 
 depending on the list where our module exists
+
+Changes in fork repo to test dirty history scenario
